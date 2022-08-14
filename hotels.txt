@@ -1,0 +1,3 @@
+hotel One
+hotelTwo
+This file is to be commited now, will be visible in repos
